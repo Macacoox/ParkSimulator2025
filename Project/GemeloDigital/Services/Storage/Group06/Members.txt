@@ -1,3 +1,7 @@
 Jordi
 Miquel
+<<<<<<< Updated upstream
 Jofre-1
+=======
+Jofre.1
+>>>>>>> Stashed changes
